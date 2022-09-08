@@ -1,6 +1,6 @@
 
-import Header from "./components/Header"
-import SalesCard from "./components/SalesCard"
+import Header from "./assets/components/Header"
+import SalesCard from "./assets/components/SalesCard"
 
 function App() {
   return(
